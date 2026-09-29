@@ -1,0 +1,105 @@
+DO NOT CHANGE THE FORMAT -- DO NOT CREATE A NEW txt file
+
+=== Question 1.1 (4 marks) ===
+#Answer below
+
+
+=== Question 1.2 (4 marks) ===
+#Columns, left to right, with a one-line meaning each:
+
+#Definition of done:
+
+
+=== Question 1.3 (4 marks) ===
+#Ticket 1: Track a parcel by tracking number
+#User story:
+
+#Acceptance criteria:
+
+
+#Ticket 2: Unknown tracking number shows a helpful message
+#User story:
+
+#Acceptance criteria:
+
+
+=== Question 2.1 (4 marks) ===
+#Answer below
+
+
+=== Question 2.2.1 (6 marks per method) ===
+#Method 1 (class and method name):
+#Problem and why it matters:
+
+#Method 2 (class and method name):
+#Problem and why it matters:
+
+
+=== Question 2.2.3 (justification, 3 to 5 sentences per method) ===
+#Method 1:
+
+#Method 2:
+
+
+=== Question 3.1 (3 marks) ===
+#1.
+
+#2.
+
+#3.
+
+
+=== Question 3.2 (defect found by your tests) ===
+#Test that exposed it:
+#What the defect was and why:
+
+
+=== Question 3.3 (3 marks) ===
+#(a)
+
+#(b)
+
+#(c)
+
+
+=== Question 4.1 (4 marks) ===
+#Answer below
+
+
+=== Question 4.2 (6 marks) ===
+#PlantUML (or plain-text) class diagram:
+
+
+=== Question 5.2 (4 marks) ===
+#(a)
+
+#(b)
+
+#(c)
+
+
+=== Question 6.1 (3 marks) ===
+#(a) New version:
+#Reason:
+
+#(b) New version:
+#Reason:
+
+#(c) New version:
+#Reason:
+
+
+=== Question 7.1 (3 marks) ===
+#(a)
+
+#(b)
+
+#(c)
+
+
+=== Question 8.4 (3 marks) ===
+#(a) 1.
+#    2.
+#    3.
+
+#(b)
